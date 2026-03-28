@@ -1,26 +1,34 @@
-<h1 align="center">🐣 Halo!</h1>
+<h1 align="center">🧸 Haii </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+little+world+✨;Kadang+produktif,+kadang+rebahan+😆&center=true">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220">
 </p>
 
 ---
 
-## 🐾 Tentang Project
-Project ini dibuat dengan:
-- ☕ Kopi
-- 😴 Begadang
-- 😭 Error berkali-kali
+## 🌷 Tentang Aku 
+- ☕ Minum kopi biar terlihat produktif  
+- 😆 50% serius, 50% random  
+- 🌙 Aktif kalau malam (mode ninja 🥷)
 
 ---
 
-## 💖 Fitur
-- 🐥 Mudah digunakan
-- 🐥 Simple tapi keren
-- 🐥 Tidak bikin nangis (mungkin)
+## 🍓 Kegiatan Sehari-hari
+```text
+Bangun 😴
+   ↓
+Scroll HP 📱
+   ↓
+Niat produktif 💻
+   ↓
+Tiba-tiba lapar 🍜
+   ↓
+Istirahat lagi 😆
 
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+project!;Jangan+lupa+star+ya!;Coding+itu+seru!&center=true">
-</p>
+🐍 Ular Peliharaan Aku 😆
+<p align="center"> <img src="https://raw.githubusercontent.com/qwerty10030801/qwerty10030801/output/github-contribution-grid-snake.svg"> </p>
